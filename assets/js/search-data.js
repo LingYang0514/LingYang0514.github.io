@@ -402,11 +402,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-she-watered-the-39-succulent-39-and-produced-a-paper-for-science",
-          title: 'She watered the &amp;#39;succulent&amp;#39; and produced a paper for Science!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
