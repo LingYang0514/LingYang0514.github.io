@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our team recently reported on a project that was reported by Tencent News, you can click [here](https://news.qq.com/rain/a/20240621A00VLX00 - article) to see the details.
+Our team recently reported on a project that was reported by Tencent News, you can click [here](https://news.qq.com/rain/a/20240621A00VLX00) to see the details.
 
 ---
 
