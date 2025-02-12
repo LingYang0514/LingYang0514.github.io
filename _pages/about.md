@@ -12,7 +12,7 @@ profile:
     <p>304 Haking Wong Building</p>
     <p>The University of Hong Kong</p>
     <p>Pokfulam Road Hong Kong </p>
-    <p> SAR, 999077 </p>
+    <p>SAR, 999077 </p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
