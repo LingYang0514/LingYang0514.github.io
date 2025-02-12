@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Our team recently reported on a project that was reported by sciencenet.cn, you can click [here](https://news.sciencenet.cn/sbhtmlnews/2024/7/380443.shtm - article) to see the details.
+Our team recently reported on a project that was reported by sciencenet.cn, you can click [here](https://news.sciencenet.cn/htmlnews/2024/7/526589.shtm) to see the details.
 
 ---
 

@@ -155,13 +155,7 @@
       }
   ],
   "projects": [
-      {
-          "name": "Droplet manipulation",
-          "startDate": "Feb. 2023",
-          "endDate": "now",
-          "description": "Remote, precise, robust, and loss-free control of diverse droplets on a superomniphobic surface. Distinguished from traditional electrowetting on dielectric (EWOD) by a different working mechanism and a simpler and cheaper platform without complex electrode patterns.",
-          "highlights": []
-      },
+
       {
           "name": "Selective directional liquid transport on biological surface",
           "startDate": "Sep. 2021",
