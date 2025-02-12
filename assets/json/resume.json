@@ -54,17 +54,9 @@
       }
   ],
   "publications": [
-    {  "title": "Selective directional liquid transport on shoot surfaces of Crassula muscosa",
-        "publication": "Science",
-        "volume": "384",
-        "issue": "adk4180",
-        "year": "2024",
-        "authors": "L. Yang#, W. Li#, J. Y. Lian, H. J. Zhu, Q. Y. Deng, J. Q. Li*, X. B. Yin*, L. Q. Wang*",
-        "impactFactor": "44.7",
-        "highlights": "Visualized by ScienceAdviser; Highlighted by Science, EurekAlert!, Phys.org, ScienceDaily, Washington City Paper, Weekender Singapore, Hong Kong Commercial Daily, etc"
-        },
+  
         {
-        "title": "Selective directional liquid transport on shoot surfaces of Crassula muscosa",
+        "name": "Selective directional liquid transport on shoot surfaces of Crassula muscosa",
         "publisher": "American Association for the Advancement of Science",
         "publication": "Science",
         "releaseDate": "2024",
@@ -73,7 +65,7 @@
         "summary": "Unveiled an unexpected selective directional liquid transport on shoot surfaces of Crassula muscosa, different from hitherto reported liquid transports on other nature species. Achieved smart and reconfigurable liquid transport on engineered biomimetic counterparts by employing mechanical or magnetic stimuli. (IF: 44.7; Visualized by ScienceAdviser; Highlighted by Science, EurekAlert!, Phys.org, ScienceDaily, Washington City Paper, Weekender Singapore, Hong Kong Commercial Daily, etc)"
         },
         {
-        "title": "Nature-inspired reentrant surfaces",
+        "name": "Nature-inspired reentrant surfaces",
         "publisher": "Pergamon",
         "publication": "Progress in Materials Science",
         "releaseDate": "2023",
@@ -83,7 +75,7 @@
         "impactFactor": "33.6"
         },
         {
-        "title": "Droplet bouncing: Fundamentals, regulations, and applications",
+        "name": "Droplet bouncing: Fundamentals, regulations, and applications",
         "publication": "Small",
         "releaseDate": "2022",
         "authors": "X. Han#, J. Q. Li#, X. Tang, W. Li, H. B. Zhao, L. Yang, L.Q. Wang*",
