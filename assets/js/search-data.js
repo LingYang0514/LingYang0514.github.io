@@ -382,8 +382,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-yang-ling-was-awarded-the-hui-binqing-memorial-postgraduate-scholarship",
-          title: 'Yang Ling was awarded the Hui Binqing Memorial Postgraduate Scholarship',
+    },{id: "news-yang-ling-was-awarded-the-hui-pun-hing-memorial-postgraduate-fellowships-mainland-collaborations",
+          title: 'Yang Ling was awarded the Hui Pun Hing Memorial Postgraduate Fellowships (Mainland Collaborations)....',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
