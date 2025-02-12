@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: head.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>304 Haking Wong Building</p>
     <p>The University of Hong Kong</p>
