@@ -387,11 +387,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-winners-of-the-2024-microfluidics-award",
-          title: 'Winners of the 2024 Microfluidics Award',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-she-watered-the-39-succulent-39-and-produced-a-paper-for-science",
           title: 'She watered the &amp;#39;succulent&amp;#39; and produced a paper for Science!',
           description: "",
@@ -407,6 +402,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-winners-of-the-2024-microfluidics-award",
+          title: 'Winners of the 2024 Microfluidics Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -465,6 +465,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/lingyang0514", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ling-yang-251834236", "_blank");
         },
       },{
         id: 'social-researchgate',
