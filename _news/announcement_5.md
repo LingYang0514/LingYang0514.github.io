@@ -6,13 +6,9 @@ inline: false
 related_posts: false
 ---
 
-Scanning electron microscopy image of a C. muscosa leaf showing knobby structures that help to control fluid transport between leaves
+Science highlighted our work with a visual feature on bidirectional fluid flow inspired by _C. muscosa_.
 
-[Link](https://www.science.org/doi/10.1126/science.adr1038)
+[Read the Science feature](https://www.science.org/doi/10.1126/science.adr1038)
 
 ![news-pic]({{ '/assets/img/2024-622.jpg' | relative_url }})
-
----
-
-
 
