@@ -1,14 +1,14 @@
 {
   "basics": {
-      "name": "LING YANG",
-      "label": "Researcher in Mechanical Engineering",
+      "name": "Ling Yang",
+      "label": "Ph.D. Student in Mechanical Engineering",
       "email": "lyangr@connect.hku.hk",
       "location": {
           "address": "304 Haking Wong Building, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, 999077, P. R. China",
           "city": "Hong Kong",
           "countryCode": "CN"
       },
-      "summary": "A researcher with a strong background in mechanical engineering, experienced in microfluidics, soft matter research, and various engineering projects. Skilled in multiple technical tools and has a track record of academic achievements and awards."
+      "summary": "A researcher in mechanical engineering with experience in microfluidics, soft matter, and biomimetic liquid transport."
   },
   "education": [
       {
@@ -49,7 +49,7 @@
           "website": "",
           "startDate": "2020",
           "endDate": "2021",
-          "summary": "Conducted research on 3D printing in the field of Mechanical and Energy Engineering.",
+          "summary": "Conducted research on 3D printing in mechanical and energy engineering.",
           "highlights": []
       }
   ],
@@ -128,7 +128,7 @@
           "awarder": ""
       },
       {
-          "title": "Eight times scholarships, twice Outstanding Graduate, and three times Outstanding Student",
+          "title": "Eight scholarships, two Outstanding Graduate awards, and three Outstanding Student awards",
           "date": "2012 - 2019",
           "awarder": ""
       }
@@ -137,26 +137,26 @@
       {
           "name": "Teaching",
           "level": "Experienced",
-          "keywords": ["MECH2414 Thermofluids (2022 - 2023, Teaching assist at The University of Hong Kong)"]
+          "keywords": ["MECH2414 Thermofluids (2022 - 2023, teaching assistant at The University of Hong Kong)"]
       },
       {
           "name": "Technical Courses",
           "level": "Proficient",
-          "keywords": ["Engineering Thermodynamics", "Fluid Mechanics", "Computational Method", "Material Mechanics", "Numerical heat transfer", "Nanophotonics"]
+          "keywords": ["Engineering Thermodynamics", "Fluid Mechanics", "Computational Methods", "Mechanics of Materials", "Numerical Heat Transfer", "Nanophotonics"]
       },
       {
           "name": "Computer Tools",
           "level": "Proficient",
-          "keywords": ["MATLAB", "Simulink", "Python", "COMSOL", "Auto CAD", "Labview"]
+          "keywords": ["MATLAB", "Simulink", "Python", "COMSOL", "AutoCAD", "LabVIEW"]
       }
   ],
   "projects": [
 
       {
-          "name": "Selective directional liquid transport on biological surface",
+          "name": "Selective directional liquid transport on biological surfaces",
           "startDate": "Sep. 2021",
           "endDate": "Mar. 2024",
-          "description": "Unveiled an unexpected selective directional liquid transport on shoot surfaces of Crassula muscosa, different from hitherto reported liquid transports on other nature species. Achieved smart and reconfigurable liquid transport on engineered biomimetic counterparts by employing mechanical or magnetic stimuli.",
+          "description": "Revealed selective directional liquid transport on shoot surfaces of Crassula muscosa and demonstrated smart, reconfigurable liquid transport on engineered biomimetic counterparts using mechanical or magnetic stimuli.",
           "highlights": []
       },
       {
@@ -184,7 +184,7 @@
           "name": "Novel disc-type pressure exchanger for seawater desalination energy recovery",
           "startDate": "2015",
           "endDate": "",
-          "description": "Awarded an Excellent Award in National Undergraduate Innovation Training Project.",
+          "description": "Received an Excellent Award in the National Undergraduate Innovation Training Project.",
           "highlights": []
       }
   ]

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -10,8 +10,7 @@ profile:
   more_info: >
     <p>304 Haking Wong Building</p>
     <p>The University of Hong Kong</p>
-    <p>Pokfulam Road Hong Kong </p>
-    <p>SAR, 999077 </p>
+    <p>Pokfulam Road, Hong Kong SAR</p>
     
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,12 +28,12 @@ latest_posts:
 ---
 
 ### About
-- I am a Ph.D. student in Mechanical Engineering at the University of Hong Kong, focusing on `microfluidics` and `soft matter` research. 
+- I am a Ph.D. student in Mechanical Engineering at the University of Hong Kong, focusing on `microfluidics` and `soft matter` research.
 
-### Research 
+### Research
 - My work involves studying complex flow phenomena in nature and life, understanding their mechanisms, and leveraging this knowledge to manipulate liquids for applications in bioanalysis, heat transfer, energy, and the environment.
 
 ### Interests
-- I am particularly fascinated by `biomimetic engineering`, exploring how plants and animals interact with their environments and employ strategies for survival in extreme conditions. 
+- I am particularly fascinated by `biomimetic engineering`, exploring how plants and animals interact with their environments and employ strategies for survival in extreme conditions.
 
-- My interests extend to topics such as `soft robotics`, `hydrogels`, `structural color`, `additive manufacture`, `origami`, and `kirigami`.
+- My interests extend to topics such as `soft robotics`, `hydrogels`, `structural color`, `additive manufacturing`, `origami`, and `kirigami`.
