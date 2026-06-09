@@ -24,3 +24,31 @@
         - Directional liquid transport
         - Soft robotics, hydrogels, structural color
         - Additive manufacturing, origami, kirigami
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Viscous fingering instability in one-end-lifted Hele-Shaw cells for producing three-dimensional hierarchical structures
+      institution: Journal of Colloid and Interface Science, 699, 138202
+      year: 2025
+    - title: Linear magnet with fluid-solid-switchable cells for flexible devices
+      institution: Nature Communications, 16, 4601
+      year: 2025
+    - title: Spatiotemporal modulation of magnetization in magnetic soft materials
+      institution: Advanced Materials, 37, e06342
+      year: 2025
+    - title: Directional water navigation and reallocation in Tillandsia capitata
+      institution: Proceedings of the National Academy of Sciences, 122, e2421589122
+      year: 2025
+    - title: Sound-controlled fluidic processor
+      institution: Science Advances, 11, eadv6314
+      year: 2025
+    - title: Selective directional liquid transport on shoot surfaces of Crassula muscosa
+      institution: Science, 384, 1344-1349
+      year: 2024
+    - title: Nature-inspired reentrant surfaces
+      institution: Progress in Materials Science, 133, 101064
+      year: 2023
+    - title: "Droplet bouncing: Fundamentals, regulations, and applications"
+      institution: Small, 18, 2200277
+      year: 2022
