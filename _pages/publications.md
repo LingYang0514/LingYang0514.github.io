@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications in reverse chronological order.
+description: Publications by Ling Yang on micro/nanofluidics, interfacial phenomena, bioinspired liquid transport, soft matter, and biomimetic engineering.
 nav: true
 nav_order: 2
 ---

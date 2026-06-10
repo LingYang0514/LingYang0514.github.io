@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+description: Ling Yang is a Postdoctoral Fellow at The University of Hong Kong and an RGC Junior Research Fellow working on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
 
 profile:
   align: right

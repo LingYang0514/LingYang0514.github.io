@@ -2,6 +2,7 @@
 layout: post
 title: Science paper on succulent-inspired liquid transport featured in the media
 date: 2024-07-03 16:11:00-0400
+description: Media coverage of Ling Yang's Science paper on selective directional liquid transport in Crassula muscosa.
 inline: false
 related_posts: false
 ---
