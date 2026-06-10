@@ -99,7 +99,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: assets/img/head.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: https://lingyang0514.github.io/assets/img/head.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -114,6 +114,7 @@ analytics:
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
+enable_google_verification: true
 google_site_verification: bIsnrlXMN1S2l7Hu4NMQFUK-n3mcoPZoJ1vwUFt0CpY # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
