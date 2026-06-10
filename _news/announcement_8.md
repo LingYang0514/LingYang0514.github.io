@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ling Yang received her Ph.D. degree from The University of Hong Kong
-date: 2026-06-10 09:00:00+0800
+date: 2025-11-23 09:00:00+0800
 inline: false
 related_posts: false
 ---
