@@ -1,14 +1,14 @@
 {
   "basics": {
       "name": "Ling Yang",
-      "label": "Ph.D. Student in Mechanical Engineering",
+      "label": "Postdoctoral Fellow in Mechanical Engineering",
       "email": "lyangr@connect.hku.hk",
       "location": {
           "address": "304 Haking Wong Building, The University of Hong Kong, Pokfulam Road, Hong Kong SAR, 999077, P. R. China",
           "city": "Hong Kong",
           "countryCode": "CN"
       },
-      "summary": "A researcher in mechanical engineering with experience in microfluidics, soft matter, and biomimetic liquid transport."
+      "summary": "Postdoctoral Fellow at The University of Hong Kong and recipient of the Research Grants Council (RGC) Junior Research Fellow award 2026/27. Research interests include micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering."
   },
   "education": [
       {
@@ -42,6 +42,16 @@
       }
   ],
   "work": [
+      {
+          "name": "The University of Hong Kong",
+          "url": "https://www.hku.hk/",
+          "position": "Postdoctoral Fellow",
+          "website": "",
+          "startDate": "2026",
+          "endDate": "",
+          "summary": "Conducting research on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.",
+          "highlights": ["Research Grants Council (RGC) Junior Research Fellow award 2026/27"]
+      },
       {
           "name": "Southern University of Science and Technology",
           "url": "https://mee.sustech.edu.cn/jiaozhiyuangong/923.html",
@@ -112,6 +122,16 @@
       }
   ],
   "awards": [
+      {
+          "title": "Research Grants Council (RGC) Junior Research Fellow award",
+          "date": "2026/27",
+          "awarder": "Research Grants Council"
+      },
+      {
+          "title": "Ph.D. degree, Department of Mechanical Engineering, The University of Hong Kong",
+          "date": "2025",
+          "awarder": "The University of Hong Kong"
+      },
       {
           "title": "Fluigent Microfluidics Award",
           "date": "2024",

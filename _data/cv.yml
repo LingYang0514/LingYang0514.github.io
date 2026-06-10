@@ -7,20 +7,23 @@
       value: lyangr@connect.hku.hk
     - name: Affiliation
       value: The University of Hong Kong
+    - name: Position
+      value: Postdoctoral Fellow
+    - name: Award
+      value: Research Grants Council (RGC) Junior Research Fellow award 2026/27
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Mechanical Engineering
       institution: The University of Hong Kong, Hong Kong SAR
-      year: in progress
+      year: 2025
 
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Microfluidics and soft matter
+    - title: Micro/nanofluidics and bioinspired engineering
       items:
-        - Biomimetic engineering
-        - Directional liquid transport
-        - Soft robotics, hydrogels, structural color
-        - Additive manufacturing, origami, kirigami
+        - Micro/nanofluidic manipulation
+        - Interfacial phenomena
+        - Bioinspired engineering
