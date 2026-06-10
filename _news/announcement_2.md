@@ -8,5 +8,5 @@ related_posts: false
 
 Ling Yang received the 2024 Microfluidics Award. See the [announcement](https://mp.weixin.qq.com/s/UfIFRhAj4gm7uqwGlHtlbg) for details.
 
-![news-pic]({{ '/assets/img/new2.jpg' | relative_url }})
+<img src="{{ '/assets/img/new2.jpg' | relative_url }}" alt="2024 Microfluidics Award" width="520" style="max-width: 100%; height: auto;">
 

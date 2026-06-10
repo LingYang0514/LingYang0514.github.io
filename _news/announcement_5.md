@@ -10,5 +10,5 @@ Science highlighted our work with a visual feature on bidirectional fluid flow i
 
 [Read the Science feature](https://www.science.org/doi/10.1126/science.adr1038)
 
-![news-pic]({{ '/assets/img/2024-622.jpg' | relative_url }})
+<img src="{{ '/assets/img/2024-622.jpg' | relative_url }}" alt="Bidirectional fluid flow inspired by nature" width="720" style="max-width: 100%; height: auto;">
 

@@ -8,4 +8,4 @@ related_posts: false
 
 Ling Yang was awarded the Hui Pun Hing Memorial Postgraduate Fellowship (Mainland Collaborations).
 
-![news-pic]({{ '/assets/img/2021-award.jpg' | relative_url }})
+<img src="{{ '/assets/img/2021-award.jpg' | relative_url }}" alt="Hui Pun Hing Memorial Postgraduate Fellowship" width="720" style="max-width: 100%; height: auto;">

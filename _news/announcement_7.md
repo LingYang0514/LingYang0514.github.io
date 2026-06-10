@@ -10,4 +10,4 @@ Ling Yang was invited to share the Science paper "Selective directional liquid t
 
 [WeChat announcement](https://mp.weixin.qq.com/s/MHXts8j8OLqDLsqJY3uYsw) | [ScienceNet repost](https://news.sciencenet.cn/htmlnews/2026/5/565059.shtm)
 
-![iCANX First Author Live]({{ '/assets/img/icanx.jpg' | relative_url }})
+<img src="{{ '/assets/img/icanx.jpg' | relative_url }}" alt="iCANX First Author Live" width="720" style="max-width: 100%; height: auto;">
