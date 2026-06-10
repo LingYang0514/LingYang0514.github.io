@@ -28,10 +28,7 @@ latest_posts:
 ---
 
 ### About
-- I am a Ph.D. student in Mechanical Engineering at the University of Hong Kong, focusing on `microfluidics` and `soft matter` research.
-
-### Research
-- My work involves studying complex flow phenomena in nature and life, understanding their mechanisms, and leveraging this knowledge to manipulate liquids for applications in bioanalysis, heat transfer, energy, and the environment.
+I am currently a Postdoctoral Fellow at The University of Hong Kong and a recipient of the Research Grants Council (RGC) Junior Research Fellow award 2026/27. I received my Ph.D. degree from the Department of Mechanical Engineering at The University of Hong Kong in 2025. My research focuses on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
 
 ### Interests
 - I am particularly fascinated by `biomimetic engineering`, exploring how plants and animals interact with their environments and employ strategies for survival in extreme conditions.
