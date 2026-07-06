@@ -8,7 +8,7 @@
           "city": "Hong Kong",
           "countryCode": "CN"
       },
-      "summary": "Postdoctoral Fellow at The University of Hong Kong and recipient of the Research Grants Council (RGC) Junior Research Fellow award 2026/27. Research interests include micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering."
+      "summary": "Postdoctoral Fellow at The University of Hong Kong. Research interests include micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering."
   },
   "education": [
       {
@@ -50,7 +50,7 @@
           "startDate": "2026",
           "endDate": "",
           "summary": "Conducting research on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.",
-          "highlights": ["Research Grants Council (RGC) Junior Research Fellow award 2026/27"]
+          "highlights": []
       },
       {
           "name": "Southern University of Science and Technology",
@@ -122,11 +122,6 @@
       }
   ],
   "awards": [
-      {
-          "title": "Research Grants Council (RGC) Junior Research Fellow award",
-          "date": "2026/27",
-          "awarder": "Research Grants Council"
-      },
       {
           "title": "Ph.D. degree, Department of Mechanical Engineering, The University of Hong Kong",
           "date": "2025",

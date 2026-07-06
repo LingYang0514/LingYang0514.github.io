@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Ling Yang is a Postdoctoral Fellow at The University of Hong Kong and an RGC Junior Research Fellow working on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
+description: Ling Yang is a Postdoctoral Fellow at The University of Hong Kong working on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 ---
 
 ### About
-I am currently a Postdoctoral Fellow at The University of Hong Kong and a recipient of the Research Grants Council (RGC) Junior Research Fellow award 2026/27. I received my Ph.D. degree from the Department of Mechanical Engineering at The University of Hong Kong in 2025. My research focuses on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
+I am currently a Postdoctoral Fellow at The University of Hong Kong. I received my Ph.D. degree from the Department of Mechanical Engineering at The University of Hong Kong in 2025. My research focuses on micro/nanofluidic manipulation, interfacial phenomena, and bioinspired engineering.
 
 ### Interests
 - I am particularly fascinated by `biomimetic engineering`, exploring how plants and animals interact with their environments and employ strategies for survival in extreme conditions.
